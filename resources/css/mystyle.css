@@ -36,6 +36,7 @@ table#social-media {
 /* Navbar */
 /* Add a dark background color with a little bit see-through */ 
 .navbar {
+    margin:0;
     font-size: 12px !important;
     letter-spacing: 4px;
 }
