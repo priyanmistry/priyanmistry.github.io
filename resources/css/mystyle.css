@@ -72,7 +72,7 @@ table#social-media {
 }
 
 .progressbar-animation {
-	-webkit-transition: width 500ms ease-in-out;
+	-webkit-transition: width 2.5s ease-in-out;
 }
 
 .custom-image {
