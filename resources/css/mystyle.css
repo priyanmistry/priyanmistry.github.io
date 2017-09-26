@@ -4,7 +4,7 @@ html, body {
 
 .hero-image {
     /* The image used */
-    background-image: url("/resources/images/Sierra2.jpg");
+    background-image: url("/resources/images/SierraComp.jpg");
 
     /* Set a specific height */
     height: 100%;
@@ -69,10 +69,6 @@ table#social-media {
 
 .fade {
 	-webkit-animation: fade 5s forwards;
-}
-
-.progressbar-animation {
-	-webkit-transition: width 2.5s ease-in-out;
 }
 
 .custom-image {
